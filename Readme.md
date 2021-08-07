@@ -26,3 +26,7 @@ On server side there are two types of programes to be run one is distributed sys
 [What is cloud computing?](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)
 
 - In cloud computing we utalize remote servers and can have three type of services (IaaS, PaaS and SaaS). It has a 20% increase every year.
+
+[What is Serverless Computing](https://www.onelogin.com/learn/serverless-computings)
+
+- With current methods of development developer writes the code and with help of ops team infrastructure plan is prepared and servers are purchased wuth risk of breakdown due to high usage and new servers requirement this cycle goes on. With serverless computing we develop the code in all the rest is upto the cloud provider. Serverless is infinte scaleable, no charges if no usage but these systems are difficult to develop as we need to define event driven architecture.
