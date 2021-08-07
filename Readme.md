@@ -19,3 +19,6 @@ On server side there are two types of programes to be run one is distributed sys
 - Distributed
   - All nodes are connected and final result is collective effort of all the nodes. When a request is made response is genrated by multiple nodes. Sames goes with serverless systems. Both scalings can be done here. In this system difficult to design and debug algorithms for the system. no common clock causes difficulty in the temporal ordering of events/transactions and difficult for a node to get the global view of the system and hence take informed decisions based on the state of other nodes in the system. Low latency than centralized system, difficult to achieve consensus and conventional way of logging events by absolute time they occur is not possible here
 
+[Blockchain vs Cloud Computing](https://www.upgrad.com/blog/blockchain-vs-cloud-computing/) -
+
+- Cloud is cyberspace where we can access data online while blockchain is encrypted system which stores data in protected data base. Data in blockchain is im-muteable and muteable for cloud. Blockchain is a ledger to keep the records while cloud provide services such as Saas, IaaS and PaaS. Both blockchain and cloud computing are playing a vital role in changing enterprises’ work environments and the way traditional computing works.
