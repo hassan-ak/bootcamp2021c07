@@ -5,3 +5,17 @@ Infrastructure as code, also referred to as IaC, is an IT practice that codifies
 ## Class Notes: -
 
 On server side there are two types of programes to be run one is distributed system (cloud computing) and the other one is Decentralized systems (blockchains).
+
+[Comparison – Centralized, Decentralized and Distributed Systems](https://www.geeksforgeeks.org/comparison-centralized-decentralized-and-distributed-systems/)
+
+- Centralized system
+
+  - Multiple nodes (clients) are connected to single central node(server). These are vertically scaleable and can go down in case of high traffic. We can't scale these systems on ad hoc basis. These systems are easy to secure, have smooth personal experience, dedicated resources, can be updated quickly and ability to detach a node easily.
+
+- Decentralized
+
+  - Each node makes its own decission and final decission is based on aggregate of all the nodes. No signle node where we can send a request and recieve a response. These systems lack global clock, there are multiple central units and dependant failure of components. Vertical scaling is possible with peer-to-peer architecture. There can be problem of coordination at the enterprise level and not suitable for small systems and no way for regulizing a node. With this system it is difficult to achieve global big tasks, no regulatory oversight, difficult to know which node failed or responded.
+
+- Distributed
+  - All nodes are connected and final result is collective effort of all the nodes. When a request is made response is genrated by multiple nodes. Sames goes with serverless systems. Both scalings can be done here. In this system difficult to design and debug algorithms for the system. no common clock causes difficulty in the temporal ordering of events/transactions and difficult for a node to get the global view of the system and hence take informed decisions based on the state of other nodes in the system. Low latency than centralized system, difficult to achieve consensus and conventional way of logging events by absolute time they occur is not possible here
+
