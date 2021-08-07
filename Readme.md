@@ -22,3 +22,7 @@ On server side there are two types of programes to be run one is distributed sys
 [Blockchain vs Cloud Computing](https://www.upgrad.com/blog/blockchain-vs-cloud-computing/) -
 
 - Cloud is cyberspace where we can access data online while blockchain is encrypted system which stores data in protected data base. Data in blockchain is im-muteable and muteable for cloud. Blockchain is a ledger to keep the records while cloud provide services such as Saas, IaaS and PaaS. Both blockchain and cloud computing are playing a vital role in changing enterprises’ work environments and the way traditional computing works.
+
+[What is cloud computing?](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)
+
+- In cloud computing we utalize remote servers and can have three type of services (IaaS, PaaS and SaaS). It has a 20% increase every year.
