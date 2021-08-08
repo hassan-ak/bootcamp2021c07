@@ -47,3 +47,7 @@ On server side there are two types of programes to be run one is distributed sys
 [CDK or Terraform?](https://medium.com/swlh/cdk-or-terraform-88a464bedf9e)
 
 - Working with terraform is like working with YML files but with CDK we can programe in any language.
+
+[What is AWS CDK, and why should your DevOps teams use it?](https://www.nclouds.com/blog/what-is-aws-cdk-and-why-should-your-devops-teams-use-it/)
+
+- CDK is prefered as working along ith AWS it works with terraform too. And it means we can use it with azure and google cloud. It enables easier cloud onboarding, accelerates the development process, is customizable and reusable, leverages the full power of the programming language and performs type checking.
