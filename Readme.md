@@ -61,3 +61,10 @@ On server side there are two types of programes to be run one is distributed sys
 - [Introducing CDK for Kubernetes](https://aws.amazon.com/blogs/containers/introducing-cdk-for-kubernetes/)
 - [What is the AWS CDK?](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
 - [AWS Free Tier](https://aws.amazon.com/free/)
+
+## Class 7 Videos:
+
+- [English on YouTube](https://www.youtube.com/watch?v=ic7U2r_-C78&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
+- [English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/2918670415052373/)
+- [Urdu on YouTube](https://www.youtube.com/watch?v=0mCvIqSYxK8&ab_channel=PanacloudUrduCloudAICourse)
+- [Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/189709983183156/)
