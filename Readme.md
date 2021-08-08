@@ -39,3 +39,7 @@ On server side there are two types of programes to be run one is distributed sys
 - Expansion into hybrid IT
 - Better monitoring
 - Creating more use cases
+
+[Infrastructure as Code](https://searchitoperations.techtarget.com/definition/Infrastructure-as-Code-IAC)
+
+- It is an IT practice that codifies and manages underlying IT infrastructure as software. It gives us speed and efficiency, consistency and alignment with devOps. Using this practice we have a problem of which language to use. AWS created CDK, before that we need to write for cloudformation which is based on YML and being a very diificult language cloud became difficult. With CDK we can write in any prefered langaugae and it converts it into cloudformation format.
