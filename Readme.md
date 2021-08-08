@@ -51,3 +51,13 @@ On server side there are two types of programes to be run one is distributed sys
 [What is AWS CDK, and why should your DevOps teams use it?](https://www.nclouds.com/blog/what-is-aws-cdk-and-why-should-your-devops-teams-use-it/)
 
 - CDK is prefered as working along ith AWS it works with terraform too. And it means we can use it with azure and google cloud. It enables easier cloud onboarding, accelerates the development process, is customizable and reusable, leverages the full power of the programming language and performs type checking.
+
+## Reading Material: -
+
+- [What Is Cloud Computing? Definition, Benefits, Types, and Trends](https://www.toolbox.com/tech/cloud/articles/what-is-cloud-computing/)
+- [AWS Named as a Cloud Leader for the 10th Consecutive Year in Gartner’s Infrastructure & Platform Services Magic Quadrant](https://aws.amazon.com/blogs/aws/aws-named-as-a-cloud-leader-for-the-10th-consecutive-year-in-gartners-infrastructure-platform-services-magic-quadrant/)
+- [The Big 3 Cloud Providers: Who’ll emerge as #1?](https://www.themsphub.com/the-big-3-cloud-providers-wholl-emerge-as-1/)
+- [CDK for Terraform](https://learn.hashicorp.com/tutorials/terraform/cdktf)
+- [Introducing CDK for Kubernetes](https://aws.amazon.com/blogs/containers/introducing-cdk-for-kubernetes/)
+- [What is the AWS CDK?](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
+- [AWS Free Tier](https://aws.amazon.com/free/)
