@@ -65,9 +65,36 @@ On server side there are two types of programes to be run one is distributed sys
 - [What is the AWS CDK?](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
 - [AWS Free Tier](https://aws.amazon.com/free/)
 
+## Other Reading Material
+
+- [Expert Advice on Moving to Serverless](https://dashbird.io/blog/expert-advice-moving-to-serverless/)
+
+- [Going Serverless with 7 Core AWS Services](https://levelup.gitconnected.com/going-serverless-with-7-core-aws-services-fcbd063985cd)
+
+- Event Driven Architecture
+
+  - [Operating Lambda: Understanding event-driven architecture – Part 1](https://aws.amazon.com/blogs/compute/operating-lambda-understanding-event-driven-architecture-part-1/)
+
+  - [Operating Lambda: Design principles in event-driven architectures – Part 2](https://aws.amazon.com/blogs/compute/operating-lambda-design-principles-in-event-driven-architectures-part-2/)
+
+  - [Operating Lambda: Anti-patterns in event-driven architectures – Part 3](https://aws.amazon.com/blogs/compute/operating-lambda-anti-patterns-in-event-driven-architectures-part-3/)
+
+- CDK V2
+
+  - We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in TypeScript and Lambda Functions etc. in Python, TypeScript and Rust
+
+    - [Working with CDK V2](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-v2.html)
+    - [Getting Started with CDK](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
+
+  - A new version of the CDK Toolkit is required for use with CDK v2. To install it, issue
+    - npm install -g aws-cdk@next
+  - [Learning Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
+
+  - We will focus on Serverless SaaS API development using CDK and AWS Lambda, AWS API Gateway (with [OpenAPI Specs](https://www.openapis.org/), and AWS AppSync.
+
 ## Class 7 Videos:
 
-- [English on YouTube](https://www.youtube.com/watch?v=ic7U2r_-C78&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
-- [English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/2918670415052373/)
-- [Urdu on YouTube](https://www.youtube.com/watch?v=0mCvIqSYxK8&ab_channel=PanacloudUrduCloudAICourse)
-- [Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/189709983183156/)
+- [English YouTube](https://www.youtube.com/watch?v=ic7U2r_-C78&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
+- [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/2918670415052373/)
+- [Urdu YouTube](https://www.youtube.com/watch?v=0mCvIqSYxK8&ab_channel=PanacloudUrduCloudAICourse)
+- [Urdu Facebook](https://www.facebook.com/Ai.SirQasim/videos/189709983183156/)
