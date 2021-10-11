@@ -10,7 +10,7 @@ On server side there are two types of programes to be run one is distributed sys
 
 - Centralized system
 
-  - Multiple nodes (clients) are connected to single central node(server). These are vertically scaleable and can go down in case of high traffic. We can't scale these systems on ad hoc basis. These systems are easy to secure, have smooth personal experience, dedicated resources, can be updated quickly and ability to detach a node easily.
+  - Multiple nodes (clients) are connected to single central node(server). These are vertically (more resources to server) scaleable and can go down in case of high traffic. We can't scale these systems on ad hoc basis. These systems are easy to secure, have smooth personal experience, dedicated resources, can be updated quickly and ability to detach a node easily.
 
 - Decentralized
 
@@ -26,10 +26,13 @@ On server side there are two types of programes to be run one is distributed sys
 [What is cloud computing?](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)
 
 - In cloud computing we utalize remote servers and can have three type of services (IaaS, PaaS and SaaS). It has a 20% increase every year.
+  - Infrastructure-as-a-Service
+  - Platform-as-a-Service
+  - Software-as-a-Service
 
 [What is Serverless Computing](https://www.onelogin.com/learn/serverless-computings)
 
-- With current methods of development developer writes the code and with help of ops team infrastructure plan is prepared and servers are purchased wuth risk of breakdown due to high usage and new servers requirement this cycle goes on. With serverless computing we develop the code in all the rest is upto the cloud provider. Serverless is infinte scaleable, no charges if no usage but these systems are difficult to develop as we need to define event driven architecture.
+- With current methods of development developer writes the code and with help of ops team infrastructure plan is prepared and servers are purchased with risk of breakdown due to high usage and new servers requirement this cycle goes on. With serverless computing we develop the code and all the rest is upto the cloud provider. Serverless is infinte scaleable, no charges if no usage but these systems are difficult to develop as we need to define event driven architecture.
 
 [Promising trends in the serverless infrastructure market](https://betanews.com/2021/07/07/trends-serverless-infrastructure/)
 
