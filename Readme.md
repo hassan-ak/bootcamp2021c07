@@ -1,6 +1,17 @@
-# bootcamp2021c07 - The Future of Computing
+# bootcamp2021c07 - Introduction to Serverless and Cloud Computing using CDK - 	The Future of Computing - Introduction to Future of Computing
 
-## The Future of Computing
+## Introduction to Future of Computing
+- Future of computing
+- Types of system
+  - Centralized
+  - De-centralized
+  - Distributed
+- Blockchain vs Cloud computing
+- Cloud Computing
+- Serverless Computing
+- IAS
+- cdk
+- Terraform
 
 Infrastructure as code, also referred to as IaC, is an IT practice that codifies and manages underlying IT infrastructure as software. The purpose of infrastructure as code is to enable developers or operations teams to automatically manage, monitor and provision resources, rather than manually configure discrete hardware devices and operating systems. Infrastructure as code is sometimes referred to as programmable or software-defined infrastructure.
 
@@ -94,7 +105,7 @@ On server side there are two types of programes to be run one is distributed sys
 
   - We will focus on Serverless SaaS API development using CDK and AWS Lambda, AWS API Gateway (with [OpenAPI Specs](https://www.openapis.org/), and AWS AppSync.
 
-## Class 7 Videos:
+## Class 7 Videos: Introduction to Future of Computing
 
 - [English YouTube](https://www.youtube.com/watch?v=ic7U2r_-C78&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
 - [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/2918670415052373/)
